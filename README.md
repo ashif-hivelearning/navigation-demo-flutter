@@ -1,4 +1,4 @@
-# flutter_navigation_demo
+# Flutter Navigation Basic - Demo
 
 A new Flutter project.
 
